@@ -83,4 +83,4 @@ production:
   <<: *default
   database: achieve_production
   username: achieve
-  password: <%= ENV['ACHIEVE_DATABASE_PASSWORD'] %>
+  password: 5432#<%= ENV['ACHIEVE_DATABASE_PASSWORD'] %>
