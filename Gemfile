@@ -24,9 +24,9 @@ gem 'jbuilder', '~> 2.7'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
-gem 'carrierwave'
-gem 'mini_magick'
-gem 'fog-aws'
+# gem 'carrierwave'
+# gem 'mini_magick'
+# gem 'fog-aws'
 gem 'dotenv-rails'
 
 gem 'dotenv-rails' # 開発環境で環境変数を操作するのに必要
